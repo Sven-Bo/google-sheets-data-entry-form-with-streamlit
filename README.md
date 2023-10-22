@@ -3,8 +3,7 @@
 In this project, I demonstrate how to design a data entry form that integrates seamlessly with Google Sheets using Streamlit and the [`streamlit-gsheets-connection`](https://github.com/streamlit/gsheets-connection) library.
 
 ## Live Demo
-Check out the web app here ⤵️
-https://vendor-data-entry.streamlit.app/
+Check out the web app here: https://vendor-data-entry.streamlit.app/
 
 ## App Functionality
 
