@@ -9,7 +9,6 @@ Check out the web app here: https://vendor-data-entry.streamlit.app/
 
 - **Data Entry Form:** Users can input (& update) data into a form interface designed with Streamlit.
 - **Google Sheets Integration:** All data entered into the form is automatically synced with a Google Sheet in real-time using the [`streamlit-gsheets-connection`](https://github.com/streamlit/gsheets-connection) library.
-).
 
 ## Video Tutorial (Coming soon!)
 [![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
