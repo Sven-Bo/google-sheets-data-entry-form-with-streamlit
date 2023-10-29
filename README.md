@@ -11,7 +11,7 @@ Check out the web app here: https://vendor-data-entry.streamlit.app/
 - **Google Sheets Integration:** All data entered into the form is automatically synced with a Google Sheet in real-time using the [`streamlit-gsheets-connection`](https://github.com/streamlit/gsheets-connection) library.
 
 ## Video Tutorial (Coming soon!)
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/_G5f7og_Dpo/0.jpg)](https://youtu.be/_G5f7og_Dpo)
 
 ## 🤝 Connect with Me
 - 📺 **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
